@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.5bb704f7.js",
+    "static/media/jeeves.png": "/static/media/jeeves.d51c245a39bb8545e04c.png",
+    "static/media/dexit.png": "/static/media/dexit.7bafb2837c8b9c6c9b52.png",
+    "static/media/github.png": "/static/media/github.d735e504486c895db140.png",
+    "static/media/penknife.png": "/static/media/penknife.552e5f5c597ca33e8029.png",
+    "static/media/phr.png": "/static/media/phr.5a213a169277ec8645d3.png",
+    "static/media/fastapi.jpg": "/static/media/fastapi.44751a37de2ac62e11d1.jpg",
+    "static/media/iitropar.png": "/static/media/iitropar.6d7ae14c74107adc91d1.png",
+    "static/media/llm.png": "/static/media/llm.f99458e2188782168fb4.png",
+    "static/media/deeplearning.png": "/static/media/deeplearning.b4ec6c6668db1ebd0fda.png",
+    "static/media/math.jpg": "/static/media/math.fb06f321e59fb20084b2.jpg",
+    "static/media/hdpui.jpg": "/static/media/hdpui.5f922d9985eb8f27a563.jpg",
+    "static/media/aiml.png": "/static/media/aiml.e316cddd18ab04f6510e.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.697858c5b1bb8c977869.jpg",
+    "static/media/ollama.png": "/static/media/ollama.287c9005301155145380.png",
+    "static/media/datastructure.png": "/static/media/datastructure.538cbcd2c6aed2c3b9ae.png",
+    "static/media/bseb.jpg": "/static/media/bseb.ca4877192294969ccbc8.jpg",
+    "static/media/nlp.png": "/static/media/nlp.2decab8351459c4db454.png",
+    "static/media/matplotlib.png": "/static/media/matplotlib.92e00e72610c91974a19.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.5bb704f7.js.map": "/static/js/main.5bb704f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.5bb704f7.js"
+  ]
+}
